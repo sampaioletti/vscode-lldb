@@ -15,7 +15,8 @@ For full details please see the [Users Manual](MANUAL.md).
 
 # Requirements
 - 64-bit OS,
-- Python 3.3 or later (optional, except on Windows).
+- Python 3.3 or later (optional for non-Windows platforms)
+- Python 3.6 64 bit (required on Windows)
 
 # Quick Start
 Here's a minimal debug configuration to get you started:
